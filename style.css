@@ -1,0 +1,104 @@
+body{
+    font-style: italic;
+    background: rgb(141, 128, 255);
+}
+.design{
+    background-image:url(bugatti.jpg);
+    height: 365px;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    
+    
+}
+.lets{
+    max-width: 450px;
+    border-radius: 400px;
+    margin: auto;
+    font-size:large;
+    font-style:italic;
+    text-align: center;
+}
+.lets2{
+    max-width: 450px;
+    border-radius: 400px;
+    margin: auto;
+    font-size:large;
+    font-style:italic;
+    text-align: center;
+
+}
+.contacts{
+    max-width: 350px;
+    border-radius: 400px;
+    margin: auto;
+}
+
+.header{
+    color:rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.cont{
+    background-image:url(telephone.jpg);
+    height: 360px;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+   
+
+
+}
+
+.paragraph{
+    
+    border-radius: 400px;
+    max-width: 450px;
+    margin: auto;
+    font-size:10px;
+    font-style:italic;
+    word-break: break-word;
+    margin:5px 20px;
+
+
+}
+.header2{
+    font-style:normal;
+    font-size: 12px;
+}
+.header3{
+    font-style:normal;
+    font-size: 12px;
+}
+.header4{
+    font-style:normal;
+    font-size: 12px;
+}
+.paragraph2{
+    max-width: 450px;
+    border-radius: 400px;
+    margin: auto;
+    font-size:10px;
+    font-style:italic;
+    
+
+
+}.paragraph3{
+    max-width: 950px;
+    border-radius: 800px;
+    margin: 1px 20px;
+    font-size:10px;
+    font-style:italic;
+
+
+}
+.p2{
+    font-style:normal;
+    color:blanchedalmond;
+
+}
+
+
