@@ -22,6 +22,7 @@ form.addEventListener("submit", function(x){
     const jsform = new FormData(form);  
     console.log(jsform.get("email"));
     console.log(jsform.get("username"));
+    var y = jsform.get("username");
     if(jsform.get("username") && jsform.get("email")){
         alert("Thank you for contacting us ")
     }
